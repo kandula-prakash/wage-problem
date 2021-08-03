@@ -21,11 +21,11 @@ namespace first_program
            
             for (int i = 0; i < 100; i++)
             {
-                int present = rand.Next(0, 2);
+                int present = rand.Next(0, 4);
                 Console.WriteLine(present);
             }
             
-            if (true)
+            if (false)
             {
                 Console.WriteLine("employee is present");
                 dailyWage = perHourWage * HOURS_WORKED;
