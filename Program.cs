@@ -25,7 +25,7 @@ namespace first_program
                 Console.WriteLine(present);
             }
             
-            if (false)
+            if (true)
             {
                 Console.WriteLine("employee is present");
                 dailyWage = perHourWage * HOURS_WORKED;
