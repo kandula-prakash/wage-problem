@@ -1,0 +1,13 @@
+D:\visual studio programs\first program\first program\bin\Debug\netcoreapp3.1\first program.exe
+D:\visual studio programs\first program\first program\bin\Debug\netcoreapp3.1\first program.deps.json
+D:\visual studio programs\first program\first program\bin\Debug\netcoreapp3.1\first program.runtimeconfig.json
+D:\visual studio programs\first program\first program\bin\Debug\netcoreapp3.1\first program.runtimeconfig.dev.json
+D:\visual studio programs\first program\first program\bin\Debug\netcoreapp3.1\first program.dll
+D:\visual studio programs\first program\first program\bin\Debug\netcoreapp3.1\first program.pdb
+D:\visual studio programs\first program\first program\obj\Debug\netcoreapp3.1\first program.csproj.AssemblyReference.cache
+D:\visual studio programs\first program\first program\obj\Debug\netcoreapp3.1\first program.AssemblyInfoInputs.cache
+D:\visual studio programs\first program\first program\obj\Debug\netcoreapp3.1\first program.AssemblyInfo.cs
+D:\visual studio programs\first program\first program\obj\Debug\netcoreapp3.1\first program.csproj.CoreCompileInputs.cache
+D:\visual studio programs\first program\first program\obj\Debug\netcoreapp3.1\first program.dll
+D:\visual studio programs\first program\first program\obj\Debug\netcoreapp3.1\first program.pdb
+D:\visual studio programs\first program\first program\obj\Debug\netcoreapp3.1\first program.genruntimeconfig.cache
