@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\bin\Debug\netcoreapp3.1\line comarision.exe
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\bin\Debug\netcoreapp3.1\line comarision.deps.json
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\bin\Debug\netcoreapp3.1\line comarision.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\bin\Debug\netcoreapp3.1\line comarision.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\bin\Debug\netcoreapp3.1\line comarision.dll
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\bin\Debug\netcoreapp3.1\line comarision.pdb
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\obj\Debug\netcoreapp3.1\line comarision.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\obj\Debug\netcoreapp3.1\line comarision.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\obj\Debug\netcoreapp3.1\line comarision.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\obj\Debug\netcoreapp3.1\line comarision.dll
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\obj\Debug\netcoreapp3.1\line comarision.pdb
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\obj\Debug\netcoreapp3.1\line comarision.genruntimeconfig.cache
+C:\Users\prakash kandula\source\repos\line comarision\line comarision\obj\Debug\netcoreapp3.1\line comarision.csproj.AssemblyReference.cache
