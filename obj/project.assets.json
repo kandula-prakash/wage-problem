@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prakash kandula\\source\\repos\\line comarision\\line comarision\\line comarision.csproj",
-      "projectName": "line comarision",
-      "projectPath": "C:\\Users\\prakash kandula\\source\\repos\\line comarision\\line comarision\\line comarision.csproj",
+      "projectUniqueName": "C:\\Users\\prakash kandula\\source\\repos\\line comarision\\line comarision\\lineCopmarision_problem.csproj",
+      "projectName": "lineCopmarision_problem",
+      "projectPath": "C:\\Users\\prakash kandula\\source\\repos\\line comarision\\line comarision\\lineCopmarision_problem.csproj",
       "packagesPath": "C:\\Users\\prakash kandula\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\prakash kandula\\source\\repos\\line comarision\\line comarision\\obj\\",
       "projectStyle": "PackageReference",
